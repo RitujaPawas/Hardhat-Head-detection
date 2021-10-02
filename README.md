@@ -18,7 +18,6 @@ Edit the configuration file based on the dataset.
 Train, export and test the model:
 file: training_on_images.ipynb
 
-#model under training using Colab GPU, disconnected after a while, completing only 2/3rd of the training. Sill, it worked pretty well on new images. I will be retraining the model in due time and upload accordingly.
 
 
 
