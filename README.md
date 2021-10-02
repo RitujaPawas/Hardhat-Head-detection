@@ -15,8 +15,13 @@ Download the model and the model's configuration file for training.
 
 Edit the configuration file based on the dataset.
 
-Train, export and test the model:
-file: training_on_images.ipynb
+Train, export the model:
+file: model.ipynb
+
+Testing on images and video inferencing:
+##creating annotation_files of the output images
+##objection detection inside video 
+##colored-object-detection inside video
 
 
 
